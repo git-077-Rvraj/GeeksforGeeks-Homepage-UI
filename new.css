@@ -1,0 +1,80 @@
+h1{
+  font-family: 'Castoro', serif;
+}
+h4{
+  font-family: 'Jomhuria', cursive;
+  font-weight: bold;
+
+}
+.change{
+  font-family: 'Jomhuria', cursive;
+}
+h5{
+  font-family: 'Otomanopee One', sans-serif;
+  font-weight: bold;
+}
+h5:hover{
+  cursor: pointer;
+   background-color: white;
+}
+
+.navbar-nav-a{
+  margin: auto 0 auto auto;
+  padding-right: 10px;
+}
+.navbar-brand-a{
+  padding-left: 10px;
+}
+.nav-item-a{
+  padding: 5px;
+}
+
+.image{
+  width: 100%;
+  margin-top: 40px;
+  padding-right:  40px;
+}
+
+
+.para{
+  margin: 40px 0 40px 0;
+}
+.para2{
+  margin: 30px 40px 30px 40px;
+}
+.featured-sec,.recom{
+  margin-left: 60px;
+}
+.para3{
+
+  margin: 40px 0 40px 0;
+}
+.para4{
+  margin:  40px 0 40px 0;
+}
+.abc{
+  margin: 20px;
+}
+.abc:link, .abc:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.abc:hover, .abc:active {
+  background-color: red;
+}
+
+.last{
+  margin: 60px 0 0 0;
+  background-color: #E8F0F2;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.space{
+  margin-bottom: 30px;
+}
