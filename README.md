@@ -2,9 +2,6 @@
 ## GFG homepage
 A UI designed for the the homepage for geeksforgeeks website.
 
-## Installation
-To install, simply clone this repository & run the following command yarn or npm install, this will install all the dependencies for you.
-
 ## Running Project
 To run this project locally, copy the full index path and run it on the chrome
 
